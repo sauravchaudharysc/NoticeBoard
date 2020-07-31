@@ -17,3 +17,6 @@
 3. Type node app.js
 4. Visit http://localhost:3000/
 5. To add a new notice http://localhost:3000/compose
+
+### Online View
+Visit https://calm-oasis-50445.herokuapp.com/
